@@ -30,12 +30,14 @@
 > [!IMPORTANT]  
 > Altho this project uses Bun for testing, it is not required for using the library.
 
-- To run tests, navigate to [`test`](./test/) and run the following command:
+- To run tests, navigate to [`test`](./test/):
 ```bash
     cd test
+```
+- then run the following command:
+```bash
     bun test
 ```
-
 ### Note
 - original project source: https://github.com/namidaco/string_clean_utils/tree/main
 
