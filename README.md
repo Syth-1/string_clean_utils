@@ -1,7 +1,7 @@
 # A Typescript library to remove/replace diacritics, accents, symbols & confusables from text
 
 > [!NOTE]  
-> This project is a Typescript implamentation of [`namidaco/string_clean_utils`](https://github.com/namidaco/string_clean_utils/tree/main)!
+> This project is a Typescript implamentation of [`namidaco/string_clean_utils`](https://github.com/namidaco/string_clean_utils/tree/main)
 
 ## Examples Usage
 
@@ -38,6 +38,7 @@
 
 ### Note
 - original project source: https://github.com/namidaco/string_clean_utils/tree/main
+
 - confusable & diacritics rules are generated with [`confusable_to_map.ts`](./generator/confusable_to_map.ts) relying on [`confusables.txt`](https://www.unicode.org/Public/security/latest/confusables.txt) & [`diacritics.ts`](./generator/diacritics.ts)
   - confusable source: https://www.unicode.org/Public/security/latest/confusables.txt 
   - diacritics source: https://www.npmjs.com/package/diacritics-map
