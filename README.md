@@ -28,7 +28,7 @@
 
 ### Testing
 > [!IMPORTANT]  
-> Altho this project uses Bun for testing, it is not required for using the library.
+> Altho this project uses [`Bun`](https://bun.sh/) for testing, it is not required for using the library.
 
 - To run tests, navigate to [`test`](./test/):
 ```bash
