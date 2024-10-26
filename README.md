@@ -37,7 +37,7 @@
 ```
 
 ### Note
+- original project source: https://github.com/namidaco/string_clean_utils/tree/main
 - confusable & diacritics rules are generated with [`confusable_to_map.ts`](./generator/confusable_to_map.ts) relying on [`confusables.txt`](https://www.unicode.org/Public/security/latest/confusables.txt) & [`diacritics.ts`](./generator/diacritics.ts)
-  - OG project source: https://github.com/namidaco/string_clean_utils/tree/main
   - confusable source: https://www.unicode.org/Public/security/latest/confusables.txt 
   - diacritics source: https://www.npmjs.com/package/diacritics-map
