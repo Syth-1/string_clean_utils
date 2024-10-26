@@ -1,6 +1,6 @@
 # A Typescript library to remove/replace diacritics, accents, symbols & confusables from text
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > This project is a Typescript implamentation of [`namidaco/string_clean_utils`](https://github.com/namidaco/string_clean_utils/tree/main)!
 
 ## Examples Usage
@@ -27,7 +27,7 @@
 ```
 
 ### Testing
-> [!NOTE]  
+> [!IMPORTANT]  
 > Altho this project uses Bun for testing, it is not required for using the library.
 
 - To run tests, navigate to [`test`](./test/) and run the following command:
